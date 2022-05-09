@@ -1,5 +1,4 @@
 import logging
-
 from telegram.ext import Updater, MessageHandler, Filters, CommandHandler
 import wikipedia
 
